@@ -14,7 +14,7 @@ namespace MovieStore.Domain.Concrete {
         public string MailFromAddress = "sandervanbelleghem@gmail.com";
         public bool UseSsl = true;
         public string Username = "sandervanbelleghem@gmail.com";
-        public string Password = "rNTzLGdXL9Zr0YjvZjJ6";
+        public string Password = "";
         public string ServerName = "Smtp.Gmail.com";
         public int ServerPort = 587;
         public bool WriteAsFile = false;
